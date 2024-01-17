@@ -18,10 +18,13 @@ Topics covered in this course include but are not limitited to:
   - Dimensionality reduction
   - Outlier Detection
 - Ensemble Learning
-  -  Boosting
   -  Bagging
   -  Gradient Boosting
-- Basic Practice with common Python packages
+- Basic Practices:
   - Pandas, NumPy, Matplotlib, SciKit-Learn
+  - Feature engineering
+  - Cross Validation
+  - Train/Test/Split
+  - Assessing Model Performance
 
 
