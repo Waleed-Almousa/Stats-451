@@ -3,14 +3,24 @@ This repository contains the Coding assignments I completed in my stats 451 cour
 
 For each assignment, I was given a dataset and a set of questions about the data, and answered the questions using python code. 
 
-Topics covered in these assignments include but are not limitited to:
+Topics covered in this course include but are not limitited to:
 
-- Machine learning
--   test1
-- Support Vector Machines
-- Supervised/Unsupervised learning
-- Clustering
-- Linear Regression
-- Logistic Regression
-- Ensemble learning
-- Feature selection
+- Supervised Learning
+  - Support vector machines
+  - Linear Regression
+  - Logistic Regression
+  - Kernel Regression
+  - Decision Trees
+  - K-NN Regression and Classification
+-  Unsupervised Learning
+  - Clustering
+  - Dimensionality reduction
+  - Outlier Detection
+-  Ensemble Learning
+  -  Boosting
+  -  Bagging
+  -  Gradient Boosting
+- Basic Practice with common Python packages
+  - Pandas, NumPy, Matplotlib, SciKit-Learn
+
+
