@@ -6,7 +6,7 @@ For each assignment, I was given a dataset and a set of questions about the data
 Topics covered in these assignments include but are not limitited to:
 
 - Machine learning
-  -test1
+  - test1
 - Support Vector Machines
 - Supervised/Unsupervised learning
 - Clustering
