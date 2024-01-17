@@ -4,7 +4,9 @@ This repository contains the Coding assignments I completed in my stats 451 cour
 For each assignment, I was given a dataset and a set of questions about the data, and answered the questions using python code. 
 
 Topics covered in these assignments include but are not limitited to:
+
 - Machine learning
+  -test1
 - Support Vector Machines
 - Supervised/Unsupervised learning
 - Clustering
