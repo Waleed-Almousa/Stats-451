@@ -12,11 +12,12 @@ Topics covered in this course include but are not limitited to:
   - Kernel Regression
   - Decision Trees
   - K-NN Regression and Classification
--  Unsupervised Learning
+
+- Unsupervised Learning
   - Clustering
   - Dimensionality reduction
   - Outlier Detection
--  Ensemble Learning
+- Ensemble Learning
   -  Boosting
   -  Bagging
   -  Gradient Boosting
