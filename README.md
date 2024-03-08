@@ -1,4 +1,4 @@
-# Statistics 451:Introduction to Machine Learning and Statistical Pattern Classification
+# Statistics 451: Introduction to Machine Learning and Statistical Pattern Classification
 This repository contains the Coding assignments I completed in my stats 451 course in the fall of 2023
 
 For each assignment, I was given a set of questions related to the current learning material of the course, and I answered the questions using python code. 
