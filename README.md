@@ -25,6 +25,7 @@ Topics covered in this course include but are not limitited to:
   - Feature engineering
   - Cross Validation
   - Train/Test/Split
+  - Feature Engineering
   - Assessing Model Performance
 
 
